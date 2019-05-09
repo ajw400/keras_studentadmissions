@@ -29,3 +29,5 @@ jupyter notebook StudentAdmissions.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
+
+Credits: inspired by the Udacity data scientist nanodegree
